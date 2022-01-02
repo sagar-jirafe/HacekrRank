@@ -3,23 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HacekrRank", "HacekrRank\HacekrRank.csproj", "{D6679B41-BE47-4120-A1F3-2682BF623C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HacekrRank", "HacekrRank\HacekrRank.csproj", "{D6679B41-BE47-4120-A1F3-2682BF623C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank_List", "HackerRank_List\HackerRank_List.csproj", "{78A6087C-18D8-4BC2-80D3-9EB3199F5BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank_List", "HackerRank_List\HackerRank_List.csproj", "{78A6087C-18D8-4BC2-80D3-9EB3199F5BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern1", "Pattern1\Pattern1.csproj", "{63F970C8-991E-4AE8-833F-5E44D6AE8242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern1", "Pattern1\Pattern1.csproj", "{63F970C8-991E-4AE8-833F-5E44D6AE8242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print_Upto_N_Without_Loop", "Print_Upto_N_Without_Loop\Print_Upto_N_Without_Loop.csproj", "{77A70068-BFD8-4673-BB62-5B3EECA5E917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print_Upto_N_Without_Loop", "Print_Upto_N_Without_Loop\Print_Upto_N_Without_Loop.csproj", "{77A70068-BFD8-4673-BB62-5B3EECA5E917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern2", "Pattern2\Pattern2.csproj", "{90853984-759B-4560-9C43-1D60D47EC722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern2", "Pattern2\Pattern2.csproj", "{90853984-759B-4560-9C43-1D60D47EC722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode_ASCII", "Decode_ASCII\Decode_ASCII.csproj", "{004AEC76-E0B9-4D51-92CE-5D47DE24713A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decode_ASCII", "Decode_ASCII\Decode_ASCII.csproj", "{004AEC76-E0B9-4D51-92CE-5D47DE24713A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueUserNameSystem", "UniqueUserNameSystem\UniqueUserNameSystem.csproj", "{18C80FFD-01EB-4FCD-BB56-57008302201D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueUserNameSystem", "UniqueUserNameSystem\UniqueUserNameSystem.csproj", "{18C80FFD-01EB-4FCD-BB56-57008302201D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_N_In_Arrat", "Find_N_In_Arrat\Find_N_In_Arrat.csproj", "{10D30485-A915-44E2-B00D-0FD69F05690C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_N_In_Arrat", "Find_N_In_Arrat\Find_N_In_Arrat.csproj", "{10D30485-A915-44E2-B00D-0FD69F05690C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperCuts", "PaperCuts\PaperCuts.csproj", "{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaperCuts", "PaperCuts\PaperCuts.csproj", "{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ndLargestElementInArray", "2ndLargestElementInArray\2ndLargestElementInArray.csproj", "{F258B40D-2188-4054-9996-51AD5A14740B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArraySum", "SubArraySum\SubArraySum.csproj", "{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_Non_Repeating_Character", "Get_Non_Repeating_Character\Get_Non_Repeating_Character.csproj", "{E40B139D-389F-4975-B55F-B2D7DEFAA473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F258B40D-2188-4054-9996-51AD5A14740B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F258B40D-2188-4054-9996-51AD5A14740B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F258B40D-2188-4054-9996-51AD5A14740B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F258B40D-2188-4054-9996-51AD5A14740B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
