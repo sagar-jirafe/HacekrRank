@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31205.134
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HacekrRank", "HacekrRank\HacekrRank.csproj", "{D6679B41-BE47-4120-A1F3-2682BF623C48}"
 EndProject
@@ -21,11 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_N_In_Arrat", "Find_N_I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaperCuts", "PaperCuts\PaperCuts.csproj", "{868FFF06-99A5-4DEC-8DC2-70CBF8CE16DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ndLargestElementInArray", "2ndLargestElementInArray\2ndLargestElementInArray.csproj", "{F258B40D-2188-4054-9996-51AD5A14740B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2ndLargestElementInArray", "2ndLargestElementInArray\2ndLargestElementInArray.csproj", "{F258B40D-2188-4054-9996-51AD5A14740B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArraySum", "SubArraySum\SubArraySum.csproj", "{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubArraySum", "SubArraySum\SubArraySum.csproj", "{B4EFE186-AA8F-47BB-8496-2D6D93B593DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_Non_Repeating_Character", "Get_Non_Repeating_Character\Get_Non_Repeating_Character.csproj", "{E40B139D-389F-4975-B55F-B2D7DEFAA473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get_Non_Repeating_Character", "Get_Non_Repeating_Character\Get_Non_Repeating_Character.csproj", "{E40B139D-389F-4975-B55F-B2D7DEFAA473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString_Without_Changing_Sp_Char", "ReverseString_Without_Changing_Sp_Char\ReverseString_Without_Changing_Sp_Char.csproj", "{CB5BBD1B-CE75-4306-A1A7-FEA7E105BDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountAnimals", "CountAnimals\CountAnimals.csproj", "{C6B3B5C4-6564-4180-B18B-2845ACD9C111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Number_String", "Reverse_Number_String\Reverse_Number_String.csproj", "{B40C43A9-D199-46B0-8D3B-2D93BC1ECE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Without_3rd_Var", "Swap_Without_3rd_Var\Swap_Without_3rd_Var.csproj", "{D3B8C47A-DA92-4825-B1D7-BEC8D0756A62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E40B139D-389F-4975-B55F-B2D7DEFAA473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5BBD1B-CE75-4306-A1A7-FEA7E105BDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5BBD1B-CE75-4306-A1A7-FEA7E105BDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5BBD1B-CE75-4306-A1A7-FEA7E105BDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5BBD1B-CE75-4306-A1A7-FEA7E105BDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B3B5C4-6564-4180-B18B-2845ACD9C111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B3B5C4-6564-4180-B18B-2845ACD9C111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B3B5C4-6564-4180-B18B-2845ACD9C111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B3B5C4-6564-4180-B18B-2845ACD9C111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40C43A9-D199-46B0-8D3B-2D93BC1ECE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40C43A9-D199-46B0-8D3B-2D93BC1ECE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40C43A9-D199-46B0-8D3B-2D93BC1ECE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40C43A9-D199-46B0-8D3B-2D93BC1ECE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B8C47A-DA92-4825-B1D7-BEC8D0756A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B8C47A-DA92-4825-B1D7-BEC8D0756A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B8C47A-DA92-4825-B1D7-BEC8D0756A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B8C47A-DA92-4825-B1D7-BEC8D0756A62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
